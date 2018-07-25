@@ -1,0 +1,33 @@
+//: Playground - noun: a place where people can play
+//www.youtube.com/priyankgada
+// All Rights Reserved 
+// Copyright (c)
+
+import UIKit
+//Var to declare variables
+//str = name of variable, can change value.
+//  = = left hand inser value
+// Priyank Gada = value ( inside "")
+var str = "Priyank Gada"
+str = "New Value"
+//can also use let to declare variable
+var otherStr = "Other Variable"
+otherStr = "Other Other variable"
+
+//Types of Variable
+
+//String = Collection of characters i.e. numbers, letters, special characters.
+//Integers = Numbers.
+
+//Concatination - Concatination is adding / merging two variables
+//Example
+print("Hello " + otherStr )
+
+//Integers ??? =
+let myInt = 10;
+let age = 21;
+print (age);
+print (age * 2)
+
+print("Priyank Gada")
+print("Second Line")
