@@ -5,6 +5,8 @@ Youtube Channel : www.youtube.com/priyankgada
 
 # Under Construction
 
+027-29Oct2018-SR
+
 Normal Course
 Instagram Application
 Flappy Bird Application 
@@ -12,13 +14,13 @@ SnapChat Application
 
 # Video Tutorials
 
-1. iOS 11 and Swift 4 Application Development Course In Hindi - Introduction To iOS 12 Course https://goo.gl/yA2WPK
-2. iOS 11 and Swift 4 Application Development Course In Hindi - XCode 9 and Swift 4.1 Interface https://goo.gl/UBMGoS
-3. iOS 11 and Swift 4 Application Development Course In Hindi - Labels in Xcode 9 https://goo.gl/bJBhRA
-4. iOS 11 and Swift 4 Application Development Course In Hindi - Buttons in Xcode 9 https://goo.gl/KUPXmi
-5. iOS 11 and Swift 4 Application Development Course In Hindi - TextFields in Xcode 9 https://goo.gl/YXipyV
-6. iOS 11 and Swift 4 Application Development Course In Hindi - HelloWorld Application in Xcode 9 https://goo.gl/qWFBmH
-7. iOS 11 and Swift 4 Application Development Course In Hindi - Image View - https://goo.gl/takCTz 
+1. iOS 12 and Swift 4 Application Development Course In Hindi - Introduction To iOS 12 Course https://goo.gl/yA2WPK
+2. iOS 12 and Swift 4 Application Development Course In Hindi - XCode 9 and Swift 4.1 Interface https://goo.gl/UBMGoS
+3. iOS 12 and Swift 4 Application Development Course In Hindi - Labels in Xcode 9 https://goo.gl/bJBhRA
+4. iOS 12 and Swift 4 Application Development Course In Hindi - Buttons in Xcode 9 https://goo.gl/KUPXmi
+5. iOS 12 and Swift 4 Application Development Course In Hindi - TextFields in Xcode 9 https://goo.gl/YXipyV
+6. iOS 12 and Swift 4 Application Development Course In Hindi - HelloWorld Application in Xcode 9 https://goo.gl/qWFBmH
+7. iOS 12 and Swift 4 Application Development Course In Hindi - Image View - https://goo.gl/takCTz 
 8. iOS 12 and Swift 4 Application Development Course In Hindi - Button Is Clicked - https://goo.gl/AxKSK3
 9. iOS 12 and Swift 4 Application Development Course In Hindi - First Interactive Application - 
 https://goo.gl/p81mKp
@@ -31,7 +33,7 @@ https://goo.gl/p81mKp
 
 # Project Files !!!
 
-6. iOS 11 and Swift 4 Application Development Course In Hindi - HelloWorld Application in Xcode 9 - https://goo.gl/BW17XV
+6. iOS 12 and Swift 4 Application Development Course In Hindi - HelloWorld Application in Xcode 9 - https://goo.gl/BW17XV
 10. iOS 12 and Swift 4 Application Development Course In Hindi - First Interactive Application - https://goo.gl/BW17XV
 1. iOS 12 and Swift 4 Application Development Course In Hindi - Playing with Playground - https://goo.gl/BW17XV
 12. iOS 12 and Swift 4 Application Development Course In Hindi - Var vs Let - https://goo.gl/BW17XV
