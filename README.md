@@ -30,6 +30,11 @@ https://goo.gl/p81mKp
 13. iOS 12 and Swift 4 Application Development Course In Hindi - Strings in XCode 9 - https://goo.gl/QG8Kmf
 14. iOS 12 and Swift 4 Application Development Course In Hindi - Concatenation with Strings - https://goo.gl/a287pa
 15. iOS 12 and Swift 4 Application Development Course In Hindi - Integers in XCode 9 - https://goo.gl/iCqkb6
+16. iOS 12 and Swift 4 Application Development Course In Hindi - Arrays in XCode 9 -
+17. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Arrays -
+18. iOS 12 and Swift 4 Application Development Course In Hindi - Mix Arrays in XCode 9 - 
+19. iOS 12 and Swift 4 Application Development Course In Hindi - Dictionaries in XCode 9 - 
+20. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Dictionaries - 
 
 # Project Files !!!
 
@@ -40,6 +45,11 @@ https://goo.gl/p81mKp
 13. iOS 12 and Swift 4 Application Development Course In Hindi - Strings in XCode 9 - https://goo.gl/BW17XV
 14. iOS 12 and Swift 4 Application Development Course In Hindi - Concatenation with Strings - https://goo.gl/BW17XV
 15. iOS 12 and Swift 4 Application Development Course In Hindi - Integers in XCode 9 - https://goo.gl/BW17XV
+16. iOS 12 and Swift 4 Application Development Course In Hindi - Arrays in XCode 9 - https://goo.gl/d1MiZw
+17. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Arrays - https://goo.gl/SVzr85
+18. iOS 12 and Swift 4 Application Development Course In Hindi - Mix Arrays in XCode 9 -  https://goo.gl/VRupvB
+19. iOS 12 and Swift 4 Application Development Course In Hindi - Dictionaries in XCode 9 - https://goo.gl/H3ArPt
+20. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Dictionaries - https://goo.gl/8rcAuZ
 
 
 # Download Links
