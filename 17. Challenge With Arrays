@@ -1,0 +1,14 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+// 17. Challenge with Array
+
+// Question : Create array with 3.12, 7.1, 88.8 and 99 and remove 7, add 10.1 and sort the array and (10*10)
+
+var array = [3.12, 7.1, 88.8, 99]
+array.remove(at: 1)
+array.append(10.1)
+array.sort()
+array.append(10*10)
+
