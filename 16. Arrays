@@ -1,0 +1,18 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+// Arrays
+
+var arrayname = [0, 1, 2, 3, 4, 5]
+print (arrayname[0])
+print (arrayname.count)
+arrayname.append(1)
+arrayname.remove(at:1)
+arrayname.sort()
+
+
+// Arrays are variable variables i.e.
+// arrays keep on changing values
+// Arrays are vairables that change values
+// Arrays start from 0
