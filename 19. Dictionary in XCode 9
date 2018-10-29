@@ -1,0 +1,21 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+// 19. Dictionary in Xcode 9
+// <3 Priyank Gada
+// www.youtube.com/priyankgada
+// Dictionary = meaning of a word in simple terms
+
+var dictionary = ["Word":"This is a meaning",
+                  "Word2":"This is second Meaning"]
+print (dictionary["Word2"]!)
+print (dictionary["Word"]!)
+print (dictionary.count)
+dictionary["Word3"] = "This is third word"
+
+ print (dictionary)
+
+var dictionaryName = [String: Double]()
+dictionaryName["One point one in string"] = 1.1
+print (dictionaryName)
