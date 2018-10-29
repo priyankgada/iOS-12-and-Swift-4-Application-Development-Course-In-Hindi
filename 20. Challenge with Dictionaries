@@ -1,0 +1,10 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+// 19. Challege With Dictionaries
+// <3 Priyank Gada
+// www.youtube.com/priyankgada
+// Question - Create a Dictionary with Price of following items - Book - Rs 10, Pen - Rs 2, Laptop - Rs 100, Computer - Rs 1000 and printe total bill as per the req.
+let price = ["Book": 10,"Pen":2, "Laptop":100, "Computer":1000]
+print("Total Bill is \(price["Book"]! + price["Pen"]! + price["Computer"]!)")
