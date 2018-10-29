@@ -1,0 +1,14 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+// 18. Mix Arrays
+// <3 Priyank Gada
+// www.youtube.com/priyankgada
+// arrays can comtain mixture of anything i.e. variables i.e. string, number, boolean , integers, etc
+
+
+var stringArrayName = [String]()
+stringArrayName.append("YouTube.com/priyankgada")
+stringArrayName.append("Second Item")
+print (stringArrayName[1])
