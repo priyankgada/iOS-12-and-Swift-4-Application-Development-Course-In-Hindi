@@ -3,9 +3,13 @@ In this course , i will show you how to create applications using swift 3 for iO
 Course website : http://www.priyankgada.blogspot.com and www.youtube.com/priyankgada
 Youtube Channel : www.youtube.com/priyankgada
 
-# Under Construction
+# Committed Changes
 
-027-29Oct2018-SR
+Update - 027-29Oct2018-SR
+Added Modules - 16, 17, 18, 19 and 20
+Added Source Code - 16, 17, 18, 19 and 20
+
+# Under Construction
 
 Normal Course
 Instagram Application
