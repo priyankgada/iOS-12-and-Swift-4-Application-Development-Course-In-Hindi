@@ -5,16 +5,17 @@ Youtube Channel : www.youtube.com/priyankgada
 
 # Committed Changes
 
-Update - 027-29Oct2018-SR
-Added Modules - 16, 17, 18, 19 and 20
-Added Source Code - 16, 17, 18, 19 and 20
+Update - 027-29Oct2018-DONE
+Scheduled Videos - 16, 17, 18, 19, 20
+Done with arrays and Dictionaries with Challeneges
+TODO-028-02Nov2018
 
 # Under Construction
 
-Normal Course
-Instagram Application
-Flappy Bird Application 
-SnapChat Application
+Normal Course from basics
+How to make Instagram Application
+How to make Flappy Bird Application 
+How to Make SnapChat Application
 
 # Video Tutorials
 
@@ -34,11 +35,11 @@ https://goo.gl/p81mKp
 13. iOS 12 and Swift 4 Application Development Course In Hindi - Strings in XCode 9 - https://goo.gl/QG8Kmf
 14. iOS 12 and Swift 4 Application Development Course In Hindi - Concatenation with Strings - https://goo.gl/a287pa
 15. iOS 12 and Swift 4 Application Development Course In Hindi - Integers in XCode 9 - https://goo.gl/iCqkb6
-16. iOS 12 and Swift 4 Application Development Course In Hindi - Arrays in XCode 9 -
-17. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Arrays -
-18. iOS 12 and Swift 4 Application Development Course In Hindi - Mix Arrays in XCode 9 - 
-19. iOS 12 and Swift 4 Application Development Course In Hindi - Dictionaries in XCode 9 - 
-20. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Dictionaries - 
+16. iOS 12 and Swift 4 Application Development Course In Hindi - Arrays in XCode 9 - https://goo.gl/AX8txa
+17. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Arrays - https://goo.gl/6gM9Rt
+18. iOS 12 and Swift 4 Application Development Course In Hindi - Mix Arrays in XCode 9 - https://goo.gl/R3kUgv
+19. iOS 12 and Swift 4 Application Development Course In Hindi - Dictionaries in XCode 9 - https://goo.gl/wwp1uB
+20. iOS 12 and Swift 4 Application Development Course In Hindi - Challege With Dictionaries - https://goo.gl/qdGnN6
 
 # Project Files !!!
 
@@ -57,6 +58,8 @@ https://goo.gl/p81mKp
 
 
 # Download Links
+
+XCode 10 - required to make iOS Applications - https://goo.gl/lOSjH
 
 
 # Read This Before Starting
